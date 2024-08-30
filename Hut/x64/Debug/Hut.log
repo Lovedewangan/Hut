@@ -1,0 +1,29 @@
+﻿  Hut.cpp
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(6,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(435,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(436,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(446,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(447,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(485,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(486,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(495,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(496,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(506,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(507,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(517,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(518,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(528,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(529,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(745,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(746,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(766,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(767,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(776,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(777,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(787,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(788,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(798,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(799,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(809,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Hut\Hut\Hut.cpp(810,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Hut.vcxproj -> C:\Users\ASUS\source\repos\hello\Hut\x64\Debug\Hut.exe
